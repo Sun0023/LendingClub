@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club 
 > Outline a brief description of your project.
 
 
