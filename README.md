@@ -4,9 +4,9 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-  - Business Understanding
-  - Business Objective
-  - Data Understanding
+  - [Business Understanding](#business-understanding)
+  - [Business Objective](#business-objective)
+  - [Data Understanding](#data-understanding)
 * [Technologies Used](#technologies-used)
 * [Process](#process)
 * [Conclusions](#conclusions)
