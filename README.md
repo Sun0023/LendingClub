@@ -7,9 +7,9 @@
   - [Business Understanding](#business-understanding)
   - [Business Objective](#business-objective)
   - [Data Understanding](#data-understanding)
-* [Technologies Used](#technologies-used)
+* [Technologies](#technologies)
 * [Process](#process)
-* [Conclusions](#conclusions)
+* [Recommendations](#recommendations)
 
 
 ## General Information
@@ -39,7 +39,7 @@ The data given ("loan.csv") contains information about past loan applicants and 
 You can access the data dictionary which describes the meaning of the variables in data set from the file name "Data Dictionary"
 
 
-## Technologies Used
+## Technologies 
 - Python Version 3.0
 - Numpy
 - Pandas
