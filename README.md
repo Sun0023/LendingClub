@@ -54,7 +54,7 @@ This is how the process carried on.
 - Bivariate Analysis
 - Recommendations
 
-## Conclusions
+## Recommendations 
 
 These are recommendations we can make from the Analysis of the above loans data:
 1. Verify the loans if the loan amount is less (Verification Status and Funded Amount by Investors)
